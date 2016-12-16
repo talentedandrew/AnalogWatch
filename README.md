@@ -13,8 +13,7 @@ First link the AnalogWatch.js file in the html <head> tag.After that in your HTM
 ```
 
 
-Now inside your <script> add the following file as shown below.Make sure to call the function on document load.
-
+Now inside your script add the following file as shown below.Make sure to call the function on document load.
 
 ```
 document.addEventListener("DOMContentLoaded", function(event) { 
